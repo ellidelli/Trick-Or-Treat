@@ -1,0 +1,10 @@
+﻿{
+  "Name": "TrickOrTreat",
+  "Author": "Ellie Delea",
+  "Version": "1.0.0",
+  "Description": "Adds a trick or treat festival to the game",
+  "UniqueID": "EllieDelea.TrickOrTreat",
+  "EntryDll": "TrickOrTreat.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
